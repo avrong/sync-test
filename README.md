@@ -10,5 +10,3 @@ fn main() {
 ```html
 <h1>Hello World</h1>
 ```
-
-1234
